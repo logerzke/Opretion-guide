@@ -1,0 +1,24 @@
+.page-title {
+    background-color: #e2e2e2;
+    color: white;
+    padding: 10px 20px;
+    font-family: 'Meiryo', sans-serif;
+}
+
+.page-title h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+.page-title h1 a {
+    color: #003366;
+    text-decoration: none;
+    pointer-events: auto;
+    cursor: pointer;
+    padding: 20px;    
+}
+
+.page-title h1 a:hover {
+    text-decoration: none;
+    color: #003366;
+}
